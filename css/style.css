@@ -1,0 +1,50 @@
+.body{
+    font-size: 16px;
+  
+}
+
+#c-tile, #b-tile, #s-tile {
+
+    background-color: grey;
+    height: 250px;
+    width: 100%;
+    margin-bottom: 15px;
+    position: relative;
+    border: 2px solid;
+    overflow: hidden;
+
+}
+
+div>span{
+    color: white;
+
+}
+
+.lable{
+
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 80px;
+    height: 27px;
+    background-color: #f6bed6;
+    text-align: center;
+   
+}
+
+
+.border-right-bottom {
+    
+   border: 2px;
+    border-top-style: ;
+    border-right-style: ;
+    border-bottom-style: solid;
+    border-left-style: solid;
+  }
+
+  .red{
+        background-color: #d9455f;
+  }
+  .skin{
+      background-color: #fecb89;
+  }
